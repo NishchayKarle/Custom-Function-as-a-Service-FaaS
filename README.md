@@ -1,4 +1,4 @@
-# Function as a Service (FaaS) platform
+# Function as a Service (FaaS) platform  
 
 ## Installation and Running:
 
